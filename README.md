@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iliyan Nikolaev</h1>
-<h3 align="center">A JavaScript student from Softuni</h3>
+<h3 align="center">A JavaScript student from SoftUni</h3>
 
 - 📫 How to reach me **ilichviva@gmail.com**
 
