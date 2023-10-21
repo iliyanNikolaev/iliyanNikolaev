@@ -20,8 +20,8 @@ I'm always open to connecting with fellow developers, sharing ideas, and collabo
 * LinkedIn: [iliyan-nikolaev](https://www.linkedin.com/in/iliyan-nikolaev-75840b259/)
 
 [![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
 
 
 
