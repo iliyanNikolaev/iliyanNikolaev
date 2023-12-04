@@ -1,14 +1,14 @@
 👋 Hi there! I'm Iliyan, JavaScript developer, currently improving my skills at the Software Academy - [SoftUni](https://softuni.bg/). 
 
-🔧 Tech Stack:
+🔧 **Tech Stack**:
 - Front-End: JavaScript, HTML, CSS, React
 - Back-End: Node.js
 
-🚀 My GitHub:
+🚀 **My GitHub**:
 * Here you will find a collection of my projects, ranging from small experiments to full-fledged applications, as well as the code from my work at SoftUni.
 
-📫 Get in Touch:
-* I'm always open to connecting with fellow developers, sharing ideas, and collaborating on projects. You can reach me via: 
+📫 **Get in Touch**:
+I welcome connections with fellow developers, HR professionals, recruiters, and others within the industry. Feel free to reach out to me via the following channels:
 
 * email: ilichviva@gmail.com
 * LinkedIn: [iliyan-nikolaev](https://www.linkedin.com/in/iliyan-nikolaev-75840b259/)
