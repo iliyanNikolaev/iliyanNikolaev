@@ -1,11 +1,9 @@
-👋 Hi there! I'm Iliyan, JavaScript developer, currently improving my skills at the Software Academy - [SoftUni](https://softuni.bg/). 
+👋 Hi there! I'm Iliyan, JavaScript WEB developer, currently improving my skills at the Software Academy - [SoftUni](https://softuni.bg/). 
 
 🔧 **Tech Stack**:
-- Front-End: JavaScript, HTML, CSS, React
+- Front-End: JavaScript, HTML, CSS, React, jQuery
 - Back-End: Node.js
-
-🚀 **My GitHub**:
-* Here you will find a collection of my projects, ranging from small experiments to full-fledged applications, as well as the code from my work at SoftUni.
+- DB: MongoDB(mongoose), MySQL(sequelize)
 
 📫 **Get in Touch**:
 I welcome connections with fellow developers, HR professionals, recruiters, and others within the industry. Feel free to reach out to me via the following channels:
