@@ -3,7 +3,7 @@
 🔧 **Tech Stack**:
 - Front-End: JavaScript, HTML, CSS, React, jQuery
 - Back-End: Node.js
-- DB: MongoDB, MySQL
+- DB: MongoDB
 
 📫 **Get in Touch**:
 I welcome connections with fellow developers, HR professionals, recruiters, and others within the industry. Feel free to reach out to me via the following channels:
