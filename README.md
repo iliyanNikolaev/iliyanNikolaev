@@ -1,4 +1,4 @@
-👋 Hi there! I'm Iliyan, JavaScript WEB developer, currently improving my skills at the Software Academy - [SoftUni](https://softuni.bg/). 
+👋 Hi there! I'm Iliyan, JavaScript WEB developer and Master's student in Electronics at Technical University of Gabrovo.
 
 🔧 **Tech Stack**:
 - Front-End: JavaScript, HTML, CSS, React, jQuery
