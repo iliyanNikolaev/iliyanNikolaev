@@ -1,7 +1,7 @@
 👋 Hi there! I'm Iliyan, JavaScript WEB developer and Master's student in Electronics at Technical University of Gabrovo.
 
 🔧 **Tech Stack**:
-- Front-End: JavaScript, HTML, CSS, React, jQuery
+- Front-End: JavaScript, HTML, CSS, React
 - Back-End: Node.js
 - DB: MongoDB
 
