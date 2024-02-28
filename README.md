@@ -1,9 +1,10 @@
-👋 Hi there! I'm Iliyan, JavaScript WEB developer and Master's student in Electronics at Technical University of Gabrovo.
+👋 Hi there! I'm Iliyan, electronics engineer and JavaScript Full Stack developer. I am currently studying a master's degree in Technical University of Gabrovo and improving my programming skills in Softuni.
 
 🔧 **Tech Stack**:
 - Front-End: JavaScript, HTML, CSS, React
 - Back-End: Node.js
-- DB: MongoDB
+- DB: MongoDB, Firebase, Back4App and etc.
+- Microcontrollers: Arduino C++
 
 📫 **Get in Touch**:
 I welcome connections with fellow developers, HR professionals, recruiters, and others within the industry. Feel free to reach out to me via the following channels:
