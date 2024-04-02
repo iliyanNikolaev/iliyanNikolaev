@@ -1,12 +1,11 @@
-👋 I'm Iliyan, Full Stack WEB developer. I am currently improving my programming skills in SoftUni. 
+👋 Hello, i'm Iliyan, Full Stack WEB developer. 
 
 🔧 **Tech Stack**:
-- Front-End: JavaScript, HTML, CSS, React, Angular
+- Front-End: JavaScript, React, Angular, CSS
 - Back-End: Node
 - DB: MongoDB, MySQL, Firebase, Back4App and etc.
 
-👋 I'm open to new freelance opportunities! If you think I could be useful for your project feel free to reach out to me via the following channels:
-
+👨‍💻 I'm open to new freelance opportunities! If you think I could be useful for your project, feel free to reach out to me via the following channels:
 * email: ilichviva@gmail.com
 * LinkedIn: [iliyan-nikolaev](https://www.linkedin.com/in/iliyan-nikolaev-75840b259/)
 
