@@ -1,4 +1,4 @@
-👋 Hello, i'm Iliyan, Full Stack WEB developer. 
+👋 Hello, i'm Iliyan, Full Stack WEB developer. I am currently working as a survey developer at the marketing research company - Ipsos.
 
 🔧 **Tech Stack**:
 - Front-End: JavaScript, React, Angular, CSS
