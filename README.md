@@ -1,9 +1,9 @@
-👋 Hello, i'm Iliyan, Full Stack WEB developer. I am currently working as a survey developer at the marketing research company - Ipsos.
+👋 Hello, i'm Iliyan, Full Stack developer. I'm currently working as a survey developer at the marketing research company - Ipsos.
 
 🔧 **Tech Stack**:
-- Front-End: JavaScript, React, Angular, CSS
 - Back-End: Node
-- DB: MongoDB, MySQL, Firebase, Back4App and etc.
+- Front-End: JavaScript, React, Angular, CSS
+- DB: MongoDB, MySQL
 
 👨‍💻 I'm open to new freelance opportunities! If you think I could be useful for your project, feel free to reach out to me via the following channels:
 * email: ilichviva@gmail.com
