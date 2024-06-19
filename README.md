@@ -1,7 +1,7 @@
 👋 Hello, i'm Iliyan, Full Stack developer. I'm currently working as a survey developer at the marketing research company - Ipsos.
 
 🔧 **Tech Stack**:
-- Back-End: Node
+- Back-End: Node.js
 - Front-End: JavaScript, React, Angular, CSS
 - DB: MongoDB, MySQL
 
