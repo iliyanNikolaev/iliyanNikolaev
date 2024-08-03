@@ -5,7 +5,7 @@
 - Front-End: JavaScript, React, Angular, CSS
 - DB: MongoDB, MySQL
 
-👨‍💻 I'm open to new opportunities! If you think I could be useful for your project, feel free to reach out to me via the following channels:
+👨‍💻 Connections
 * email: ilichviva@gmail.com
 * LinkedIn: [iliyan-nikolaev](https://www.linkedin.com/in/iliyan-nikolaev-75840b259/)
 
