@@ -4,7 +4,7 @@
 - Back-End: Node.js
 - Front-End: JavaScript, React, Angular, CSS
 - DB: MongoDB, MySQL
-- Survey development: IBM SPSS
+- Survey development: IBM SPSS, iField
 
 👨‍💻 Connections
 * email: ilichviva@gmail.com
