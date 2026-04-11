@@ -4,6 +4,7 @@
 
 👨‍💻 Connections
 * email: ilichviva@gmail.com
+* LinkedIn: [Iliyan Nikolaev M.](https://www.linkedin.com/in/iliyan-nikolaev-m-75840b259/) 
 
 
 [![](https://raw.githubusercontent.com/iliyanNikolaev/stats-in-readme/master/profile-summary-card-output/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
