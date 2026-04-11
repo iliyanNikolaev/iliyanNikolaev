@@ -1,7 +1,5 @@
 👋 Hello, i'm Iliyan, currently working as a survey developer at the marketing research company - Ipsos.
 
-- Survey development: IBM SPSS, iField, Google Forms
-
 👨‍💻 Connections
 * email: ilichviva@gmail.com
 * LinkedIn: [Iliyan Nikolaev M.](https://www.linkedin.com/in/iliyan-nikolaev-m-75840b259/) 
